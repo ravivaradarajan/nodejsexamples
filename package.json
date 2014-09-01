@@ -1,6 +1,6 @@
 {
 	"author"	: "Ravisankar Varadarajan",
-	"name"		: "censorify",
+	"name"		: "censorword",
 	"version"	: "0.1.1",
 	"description": "Censors words out of text",
 	"main"		: "censortext", 
