@@ -3,7 +3,15 @@
 	"name"		: "censorify",
 	"version"	: "0.1.1",
 	"description": "Censors words out of text",
-	"main"		: "censortext",
+	"main"		: "censortext", 
+	"repository": { 
+	"type"		: "git",
+	"url"		: "https://github.com/ravivaradarajan/nodejsexamples"
+				  }, 
+	"keywords"	: [
+		"censor",
+		"words"
+		],
 	"dependencies" : {},
 	"engines" : {
 		"node" : "*"
